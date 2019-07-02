@@ -1,0 +1,1 @@
+int  uzaklikHesaplama(int boyut, int yenigözlem[][2], double sýrala[], int gözlemler[][3], double uzaklik[][5]);

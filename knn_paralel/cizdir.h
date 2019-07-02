@@ -1,0 +1,1 @@
+int cizdirr(int düzlem[][15], int yenigsýnýfý);
